@@ -1,6 +1,6 @@
 {
   "name": "OldRolesCopy",
-  "author": "YourNameOrUsername",
+  "author": "mbcaction",
   "version": "1.0.0",
   "description": "Saves roles before members leave and shows them with copy button in profile",
   "main": "OldRolesCopy.plugin.js",
